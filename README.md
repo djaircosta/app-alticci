@@ -2,7 +2,7 @@
 Application Alticci 
 
 ## Objectivo
-Valores aleatorio
+Creator values in arrays
 
 ## Tecnologias utilizadas 
 
